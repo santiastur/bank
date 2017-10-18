@@ -34,7 +34,7 @@ namespace GetDataFromBank.Controllers
                     this.Index();
 
                 }
-                //                    Console.WriteLine("Select the apps to run:");
+                //                    
                 //                    Console.WriteLine(
                 //                    @"   
                 //            1-Register                           
